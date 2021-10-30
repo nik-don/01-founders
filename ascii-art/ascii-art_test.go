@@ -1,3 +1,8 @@
+/* Package contains the functions required to compare the command line output
+and match with the expected result stored in a file.
+
+https://github.com/nik-don/01-founders/tree/main/ascii-art
+*/
 package main
 
 import (
@@ -9,7 +14,7 @@ import (
 	"testing"
 )
 
-// All additional test cases will read from this file
+// All additional test cases will be read from this file
 var fileName string = "test-cases.txt"
 
 type testData struct {
