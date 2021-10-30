@@ -12,7 +12,7 @@ Place the files in your repo. (same folder that your **main** project file is lo
 
 or copy and paste this in your terminal
 
-	curl -o ascii-art_test.go https://raw.githubusercontent.com/nik-don/01-founders/main/ascii-art/ascii-art_test.go && curl -o test-cases.txt https://raw.githubusercontent.com/nik-don/01-founders/main/ascii-art/test-cases.txt . 
+	curl -o ascii-art_test.go https://raw.githubusercontent.com/nik-don/01-founders/main/ascii-art/ascii-art_test.go && curl -o test-cases.txt https://raw.githubusercontent.com/nik-don/01-founders/main/ascii-art/test-cases.txt
 
 
 ![Peek 2021-10-30 21-51](https://user-images.githubusercontent.com/93073558/139558058-09dae194-9e19-464b-a4f0-adfd50c62985.gif)
