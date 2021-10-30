@@ -1,5 +1,7 @@
 /* Package contains the functions required to compare the command line output
-and with the expected result stored in a file.
+with the expected result stored in a file.
+
+It also makes two additional checks. (empty input and only "\n")
 
 https://github.com/nik-don/01-founders/tree/main/ascii-art
 */
