@@ -10,7 +10,7 @@ and outputting the string in a graphic representation using ASCII
 \
 Place the files in your repo. (same folder that your **main** project file is located)
 
-or use copy and paste this  in your terminal
+or copy and paste this in your terminal
 
 	curl -o ascii-art_test.go https://raw.githubusercontent.com/nik-don/01-founders/main/ascii-art/ascii-art_test.go && curl -o test-cases.txt https://raw.githubusercontent.com/nik-don/01-founders/main/ascii-art/test-cases.txt . 
 
