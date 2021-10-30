@@ -9,7 +9,7 @@ and outputting the string in a graphic representation using ASCII
 \
 Usage:
 
-Place the files in your repo. (same folder that your main project file is located)
+Place the files in your repo. (same folder that your **main** project file is located)
 
 	go test . 
 
@@ -26,16 +26,6 @@ You can edit the test-cases file and add your own.
 #Argument#
 Expected Outcome
 
-Example:
-#Hi#
- _    _   _  $
-| |  | | (_) $
-| |__| |  _  $
-|  __  | | | $
-| |  | | | | $
-|_|  |_| |_| $
-             $
-             $
 
 
 \
@@ -44,5 +34,6 @@ To Do:
 - Make the test file run parallel tests
 
 
-
+\
+\
 Inspired by https://github.com/N1X0N3/ascii-art-testfile
