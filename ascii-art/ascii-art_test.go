@@ -44,7 +44,7 @@ func TestAsciiArt(t *testing.T) {
 
 		output, err := exec.Command("bash", "-c", cmd).Output()
 		if err != nil {
-			t.Logf("try checking the argument in the test-case file")
+			t.Logf("try checking the argument in the " + fileName + " file")
 			t.Fatal(err)
 		}
 
