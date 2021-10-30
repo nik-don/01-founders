@@ -1,5 +1,5 @@
 /* Package contains the functions required to compare the command line output
-and match with the expected result stored in a file.
+and with the expected result stored in a file.
 
 https://github.com/nik-don/01-founders/tree/main/ascii-art
 */
