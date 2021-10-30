@@ -37,15 +37,13 @@ func TestAsciiArt(t *testing.T) {
 	// add additional testcases from the file into the testCases
 	addTestCases(fileName)
 
-	t.Parallel()
 	for _, test := range testCases {
 
 		cmd := "go run main.go " + escapedString(test.arg) + " | cat -e"
 
 		output, err := exec.Command("bash", "-c", cmd).Output()
 		if err != nil {
-			t.Logf("try checking the argument in the " + fileName + " file")
-			t.Fatal(err)
+			t.Fatal(">>> TRY CHECKING the input argument in the", fileName, " file. For >>>> ", test.arg, " \n", err)
 		}
 
 		if logVisually {
