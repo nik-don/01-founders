@@ -5,11 +5,21 @@ and outputting the string in a graphic representation using ASCII
 
 (https://github.com/01-edu/public/tree/master/subjects/ascii-art)
 
+
+\
+\
+Place the files in your repo. (same folder that your **main** project file is located)
+
+or use copy and paste this  in your terminal
+
+	curl -o ascii-art_test.go https://raw.githubusercontent.com/nik-don/01-founders/main/ascii-art/ascii-art_test.go && curl -o test-cases.txt https://raw.githubusercontent.com/nik-don/01-founders/main/ascii-art/test-cases.txt . 
+
+
 \
 \
 Usage:
 
-Place the files in your repo. (same folder that your **main** project file is located)
+
 
 	go test . 
 
