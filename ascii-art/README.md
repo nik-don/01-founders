@@ -36,8 +36,29 @@ to reset cache *and* verbose output of what is happening
 \
 \
 You can edit the test-cases file and add your own.
+\
 #Argument#
+\
 Expected Outcome
+
+
+
+----
+If you want to:
+\
+You can comment/uncomment these lines:
+\
+![Peek 2021-11-03 07-47](https://user-images.githubusercontent.com/93073558/140024727-67521f66-ae98-4ff0-8b7c-5212d0078cfa.gif)
+\
+
+\
+To test for these cases:
+
+![image](https://user-images.githubusercontent.com/93073558/140023337-99ba2081-56bc-492e-bb2b-9ef16071b59c.png)
+
+
+----
+
 
 
 
@@ -50,3 +71,17 @@ To Do:
 \
 \
 Inspired by https://github.com/N1X0N3/ascii-art-testfile
+
+
+----
+
+## FAQ
+**Question:** Is the code same as N1X0N3's test file?
+
+**Answer:** Although it is inspired by it, the code is completely different and the way the test-cases are stored in the file is different.
+
+##
+**Q:** What resources did you look to make this test?
+
+**A:** https://gist.github.com/nik-don/e88dd0e519ff6d693bd8212d148df152
+##
