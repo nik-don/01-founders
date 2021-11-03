@@ -31,9 +31,6 @@ var testCases = []testData{
 
 // TestAsciiArt will test the output of the main.go program to match the desired representation in Ascii Art characters
 func TestAsciiArt(t *testing.T) {
-	// Log on/off
-	logVisually := true
-
 	// add additional testcases from the file into the testCases
 	addTestCases(fileName)
 
@@ -44,12 +41,6 @@ func TestAsciiArt(t *testing.T) {
 		output, err := exec.Command("bash", "-c", cmd).Output()
 		if err != nil {
 			t.Fatal(">>> TRY CHECKING the input argument in the", fileName, " file. For >>>> ", test.arg, " \n", err)
-		}
-
-		if logVisually {
-			t.Logf("output for %s is \n%s", test.arg, output)
-			t.Log()
-			t.Logf("expected output for %s is \n%s", test.arg, test.expected)
 		}
 
 		if string(output) != (test.expected) {
