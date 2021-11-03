@@ -29,8 +29,8 @@ Usage:
 or
 
 
-	go clean -testcache && go test . -v
-to reset cache *and* verbose output of what is happening
+	go clean -testcache && go test . 
+to reset cache *and* test
 
 
 \
@@ -78,7 +78,7 @@ Inspired by https://github.com/N1X0N3/ascii-art-testfile
 ## FAQ
 **Question:** Is the code same as N1X0N3's test file?
 
-**Answer:** Although it is inspired by it, the code is completely different and the way the test-cases are stored in the file is different.
+**Answer:** Although it is inspired by it, the code is 99% different and the way the test-cases are stored in the file is different.
 
 ##
 **Q:** What resources did you look to make this test?
