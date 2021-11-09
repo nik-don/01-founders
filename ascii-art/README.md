@@ -29,6 +29,11 @@ Usage:
 or
 
 
+	go test ascii-art_test.go 
+
+----
+
+
 	go clean -testcache && go test . 
 to reset cache *and* test
 
