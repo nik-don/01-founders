@@ -5,6 +5,7 @@
 
 
 Test Files:
+- [Sudoku](https://github.com/nik-don/01-founders/tree/main/sudoku)
 
 - Go-reloaded
 - [Ascii-art](https://github.com/nik-don/01-founders/tree/main/ascii-art)
