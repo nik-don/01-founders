@@ -1,4 +1,4 @@
-# Test file for the quad program 
+# Test file for the quad program [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J36ZB3M)
 
 (https://github.com/01-edu/public/tree/master/subjects/quad)
 
