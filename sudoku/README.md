@@ -32,6 +32,10 @@ or
 to reset cache *and* test
 
 
+![Peek 2021-11-14 09-27](https://user-images.githubusercontent.com/93073558/141675489-c26a910b-f0d9-43e5-971a-6ce39cdc1760.gif)
+
+
+
 \
 \
 You can edit the test-cases file and add your own.
