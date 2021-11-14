@@ -1,4 +1,4 @@
-# Test file for the sudoku solver program 
+# Test file for the sudoku solver program  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J36ZB3M)
 
 (https://github.com/01-edu/public/tree/master/subjects/sudoku)
 
