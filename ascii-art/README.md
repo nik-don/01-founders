@@ -1,4 +1,4 @@
-# Test file for the Ascii-art program 
+# Test file for the Ascii-art program [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J36ZB3M)
 
 which consists in receiving a string as an argument 
 and outputting the string in a graphic representation using ASCII
