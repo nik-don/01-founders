@@ -14,7 +14,7 @@ Place the files in your repo. (same folder that your **main** project file is lo
 
 or copy and paste this in your terminal
 
-	curl -o sudoku_test.go https://raw.githubusercontent.com/nik-don/01-founders/main/quad/quad_test.go && curl -o test-cases.txt https://raw.githubusercontent.com/nik-don/01-founders/main/quad/test-cases.txt
+	curl -o quad_test.go https://raw.githubusercontent.com/nik-don/01-founders/main/quad/quad_test.go && curl -o test-cases.txt https://raw.githubusercontent.com/nik-don/01-founders/main/quad/test-cases.txt
 
 
 
@@ -47,7 +47,7 @@ to reset cache *and* test
 \
 You can edit the test-cases file and add your own.
 \
-#<Quad>,<x>,<y>#
+#{Quad},{x},{y}#
 \
 Expected Outcome
 
