@@ -9,3 +9,8 @@ Test Files:
 - [Sudoku](https://github.com/nik-don/01-founders/tree/main/sudoku)
 - Go-reloaded
 - [Ascii-art](https://github.com/nik-don/01-founders/tree/main/ascii-art)
+
+
+
+----
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J36ZB3M)
