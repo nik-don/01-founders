@@ -50,12 +50,14 @@ Expected Outcome
 
 
 ## FAQ
-**Question:** Why does the test fail when the expected solution looks identical to the program output?
+**Question:** Why does the test fail when the program output looks identical to the expected solution?
 
 **Answer:** Try running a valid sudoku input with the `cat -e` and make sure there are **NO spaces** after the last digit. 
 \
 \
-example `go run . "1.58.2..." ".9..764.5" "2..4..819" ".19..73.6" "762.83.9." "....61.5." "..76...3." "43..2.5.1" "6..3.89.." | cat -e`
+example:
+\
+`go run . "1.58.2..." ".9..764.5" "2..4..819" ".19..73.6" "762.83.9." "....61.5." "..76...3." "43..2.5.1" "6..3.89.." | cat -e`
 
 
 
