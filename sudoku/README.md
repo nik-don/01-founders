@@ -7,7 +7,7 @@
 \
 Place the files in your repo. (same folder that your **main** project file is located)
 
-or copy and paste this in your terminal
+## simply copy and paste this in your terminal
 
 	curl -o sudoku_test.go https://raw.githubusercontent.com/nik-don/01-founders/main/sudoku/sudoku_test.go && curl -o test-cases.txt https://raw.githubusercontent.com/nik-don/01-founders/main/sudoku/test-cases.txt
 \
