@@ -27,12 +27,12 @@ Usage:
 or
 
 
-	go test sudoku_test.go 
+	go test sudoku_test.go -v
 
 ----
 
 
-	go clean -testcache && go test . 
+	go clean -testcache && go test
 to reset cache *and* test
 
 
