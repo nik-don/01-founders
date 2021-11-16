@@ -22,13 +22,14 @@ Usage:
 
 
 
-	go test 
+	go test -v
+
+-v for verbose
 
 or
 
 
-	go test sudoku_test.go -v
-
+	go test sudoku_test.go
 ----
 
 
