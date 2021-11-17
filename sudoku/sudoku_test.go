@@ -12,14 +12,14 @@ import (
 	"os/exec"
 	"testing"
 )
+// **************************
+// NAME_OF_PROGRAM
+var programName = "main.go"
+// **************************
 
 // All additional test cases will be read from this file
 var fileName string = "test-cases.txt"
 
-const (
-	InfoColor  = "\033[1;34m%s\033[0m"
-	ErrorColor = "\033[1;31m%s\033[0m"
-)
 
 type testData struct {
 	arg      string
@@ -35,7 +35,7 @@ func TestSudoku(t *testing.T) {
 
 	for _, test := range testCases {
 
-		cmd := "go run main.go " + (test.arg)
+		cmd := "go run " + programName " + test.arg
 
 		output, err := exec.Command("bash", "-c", cmd).Output()
 		if err != nil {
