@@ -16,6 +16,12 @@ import (
 	"testing"
 )
 
+// **************************
+// NAME_OF_PROGRAM
+const programName = "main.go"
+
+// **************************
+
 // All additional test cases will be read from this file
 var fileName string = "test-cases.txt"
 
@@ -25,8 +31,8 @@ type testData struct {
 }
 
 var testCases = []testData{
-//	{"", ""},            // test case for empty argument ""
-//	{"\\n", "$" + "\n"}, // test case for only "\n"
+	//	{"", ""},            // test case for empty argument ""
+	//	{"\\n", "$" + "\n"}, // test case for only "\n"
 }
 
 // TestAsciiArt will test the output of the main.go program to match the desired representation in Ascii Art characters
@@ -36,7 +42,7 @@ func TestAsciiArt(t *testing.T) {
 
 	for _, test := range testCases {
 
-		cmd := "go run main.go " + escapedString(test.arg) + " | cat -e"
+		cmd := "go run " + programName + " " + escapedString(test.arg) + " | cat -e"
 
 		output, err := exec.Command("bash", "-c", cmd).Output()
 		if err != nil {
@@ -44,7 +50,12 @@ func TestAsciiArt(t *testing.T) {
 		}
 
 		if string(output) != (test.expected) {
-			t.Errorf("For argument '%v' \nexpected \n%s\nbut got \n%s", test.arg, test.expected, string(output))
+			t.Errorf("For argument '%v' \n\033[1;34mexpected \n%s\033[0m\n\033[1;31mbut got \n%s\033[0m", test.arg, test.expected, string(output))
+			panic("err")
+		} else {
+			t.Logf("output for \033[38;5;105m\"%s\"\033[39;49m is \n\033[1;32m%s\033[0m", test.arg, output)
+			t.Log("\n")
+			t.Logf("expected output for \033[38;5;105m\"%s\"\033[39;49m is \n\033[1;32m%s\033[0m\n\033[1;36m------------------------------\033[0m\n", test.arg, test.expected)
 		}
 	}
 }
