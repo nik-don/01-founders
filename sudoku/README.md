@@ -1,4 +1,6 @@
-# Test file for the sudoku solver program  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J36ZB3M)
+[<img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />](https://ko-fi.com/J3J36ZB3M)
+
+# Test file for the sudoku solver program
 
 (https://github.com/01-edu/public/tree/master/subjects/sudoku)
 
@@ -60,5 +62,7 @@ example:
 \
 `go run . "1.58.2..." ".9..764.5" "2..4..819" ".19..73.6" "762.83.9." "....61.5." "..76...3." "43..2.5.1" "6..3.89.." | cat -e`
 
+\
+[<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=nikdon&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff">](https://www.buymeacoffee.com/nikdon)
 
 
