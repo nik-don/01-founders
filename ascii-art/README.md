@@ -1,4 +1,8 @@
-# Test file for the Ascii-art program [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J36ZB3M)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J36ZB3M)
+
+# Test file for the Ascii-art program 
+
+
 
 which consists in receiving a string as an argument 
 and outputting the string in a graphic representation using ASCII
@@ -99,3 +103,6 @@ Inspired by https://github.com/N1X0N3/ascii-art-testfile
 
 **A:** https://gist.github.com/nik-don/e88dd0e519ff6d693bd8212d148df152
 ##
+
+\
+[<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=nikdon&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff">](https://www.buymeacoffee.com/nikdon)
