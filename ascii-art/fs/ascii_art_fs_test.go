@@ -82,8 +82,7 @@ func readLines(path string) ([]string, error) {
 
 // addTestCases will read the contents of the specified file, extract and add the desired output into the testCases
 func addTestCases(fileName string) {
-	// arg, banner, tempStr := "", "", ""
-
+	
 	lines, err := readLines(fileName)
 	if err != nil {
 		log.Fatalf("readLines: %s", err)
@@ -92,8 +91,9 @@ func addTestCases(fileName string) {
 	var (
 		arg    string
 		banner string
+		tempStr string
 	)
-	tempStr := ""
+	
 
 	for i, line := range lines {
 
