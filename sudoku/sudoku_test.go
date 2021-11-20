@@ -14,7 +14,8 @@ import (
 )
 // **************************
 // NAME_OF_PROGRAM
-var programName = "main.go"
+const programName = "main.go"
+
 // **************************
 
 // All additional test cases will be read from this file
@@ -35,7 +36,7 @@ func TestSudoku(t *testing.T) {
 
 	for _, test := range testCases {
 
-		cmd := "go run " + programName " + test.arg
+		cmd := "go run " + programName + " " + test.arg
 
 		output, err := exec.Command("bash", "-c", cmd).Output()
 		if err != nil {
