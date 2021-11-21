@@ -1,13 +1,12 @@
 [<img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />](https://ko-fi.com/J3J36ZB3M)
 
-# Test file for the Ascii-art-fs program 
+# Test file for the Ascii-art-reverse program 
 
 
 
-which consists in receiving a string as an argument 
-and outputting the string in a graphic representation using ASCII characters. Plus the ability to choose a banner (font) required. 
+which consists deciphering the graphic representation of text in ASCII characters back to its text value.
 
-(https://github.com/01-edu/public/tree/master/subjects/ascii-art/fs)
+(https://github.com/01-edu/public/tree/master/subjects/ascii-art/reverse)
 
 
 \
@@ -16,7 +15,7 @@ Place the files in your repo. (same folder that your **main** project file is lo
 
 ## simply copy and paste this in your terminal
 
-	curl -o ascii-art_fs_test.go https://raw.githubusercontent.com/nik-don/01-founders/main/ascii-art/fs/ascii_art_fs_test.go && curl -o test-cases.txt https://raw.githubusercontent.com/nik-don/01-founders/main/ascii-art/fs/test-cases.txt
+	curl -o ascii-art_reverse_test.go https://raw.githubusercontent.com/nik-don/01-founders/main/ascii-art/reverse/ascii_art_reverse_test.go && curl -o test-cases.txt https://raw.githubusercontent.com/nik-don/01-founders/main/ascii-art/reverse/test-cases.txt
 \
 \
 Make sure you change the program name to main.go or change it inside the test file:
@@ -39,7 +38,7 @@ use -v for verbose
 or
 
 
-	go test ascii-art_fs_test.go -v
+	go test ascii-art_reverse_test.go -v
 
 ----
 
@@ -52,9 +51,9 @@ to reset cache *and* test
 \
 You can edit the test-cases file and add your own.
 \
-#"Argument" Banner#
+#"Argument" --reverse=fileName#
 \
-Expected Outcome
+Text to be deciphered
 
 
 

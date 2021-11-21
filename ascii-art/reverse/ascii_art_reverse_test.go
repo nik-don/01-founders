@@ -36,8 +36,8 @@ type testData struct {
 
 var testCases = []testData{}
 
-// TestAsciiArtFS will test the output of the main.go program to match the desired representation in Ascii Art characters
-func TestAsciiArtFS(t *testing.T) {
+// TestAsciiArtReverse will test the output of the main.go program to match the desired representation in Ascii Art characters
+func TestAsciiArtReverse(t *testing.T) {
 	// add additional testcases from the file into the testCases
 	addTestCases(fileName)
 
