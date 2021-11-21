@@ -51,7 +51,7 @@ to reset cache *and* test
 \
 You can edit the test-cases file and add your own.
 \
-#"Argument" fileName#
+#"Argument" --reverse=fileName#
 \
 Text to be deciphered
 
