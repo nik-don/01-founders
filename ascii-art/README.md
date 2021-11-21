@@ -5,7 +5,8 @@
 
 
 which consists in receiving a string as an argument 
-and outputting the string in a graphic representation using ASCII characters
+and printing the string in a graphic representation using a banner file containing 
+each ASCII character assigned to 8 lines of text.
 
 (https://github.com/01-edu/public/tree/master/subjects/ascii-art)
 
