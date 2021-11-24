@@ -15,7 +15,7 @@ Place the files in your repo. (same folder that your **main** project file is lo
 
 ## simply copy and paste this in your terminal
 
-	curl -o ascii-art_output_test.go https://raw.githubusercontent.com/nik-don/01-founders/main/ascii-art/output/ascii_art_output_test.go && curl -o test-cases.txt https://raw.githubusercontent.com/nik-don/01-founders/main/ascii-art/output/test-cases.txt
+	curl -o ascii-art_output_test.go https://raw.githubusercontent.com/nik-don/01-founders/main/ascii-art/output/ascii-art_output_test.go && curl -o test-cases.txt https://raw.githubusercontent.com/nik-don/01-founders/main/ascii-art/output/test-cases.txt
 \
 \
 Make sure you change the program name to main.go or change it inside the test file:
