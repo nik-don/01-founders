@@ -24,10 +24,6 @@ const programName = "main.go"
 // All additional test cases will be read from this file
 var fileName string = "test-cases.txt"
 
-const errMsg = `Usage: go run . [OPTION]
-
-EX: go run . --reverse=<fileName>`
-
 type testData struct {
 	arg      string
 	flag     string
