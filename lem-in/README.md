@@ -93,10 +93,10 @@ Please hit ctrl+c and run again.
 
 # Benchmark
 
-Printing only the solution.
+Printing only the solution for [example04](https://github.com/01-edu/public/tree/master/subjects/lem-in/examples#example04)
 
 (Please note there has been no pre-optimization)
-- No Linked lists, graph representation
+- No Linked lists, graph representation used...
 - Mainly maps and structs
 
 ![image](https://user-images.githubusercontent.com/93073558/160244265-e16bf480-988c-4d2f-953a-f3618cddfb60.png)
