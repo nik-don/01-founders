@@ -56,20 +56,21 @@ curl -o lem-in-v0-5-nik https://nextcloud.nikolo.dev/s/ES9i6Hq7i9NgYAM/download/
 ```
 
 # How to use:
-
-https://user-images.githubusercontent.com/93073558/160241679-9a322ba7-dea5-4aaf-a0aa-527ca86afbda.mp4
-
 ```
 ./lem-in-v0-5-nik <FILENAME>
 ```
 
+https://user-images.githubusercontent.com/93073558/160241679-9a322ba7-dea5-4aaf-a0aa-527ca86afbda.mp4
+
+
 # Flags you can use:
-```
--c
--r
--v
--h
-```
+|    |                                          | flag syntax |
+|----|------------------------------------------|--------------------------|
+| -c | show counters                            | -c=true, -c=t or just -c |
+| -r | show raw solution without data from file |                          |
+| -v | show visualizer                          |                          |
+| -h | help                                     |                          |
+
 
 # Notes:
 
