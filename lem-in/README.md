@@ -50,7 +50,7 @@ Includes a very basic 2D Visualizer.
 
 (ubuntu/linux)  https://nextcloud.nikolo.dev/s/ES9i6Hq7i9NgYAM
 
-or paste this:
+to directly download to the terminal, paste this:
 ```
 curl -o lem-in-v0-5-nik https://nextcloud.nikolo.dev/s/ES9i6Hq7i9NgYAM/download/lem-in-v0-5-nik
 ```
