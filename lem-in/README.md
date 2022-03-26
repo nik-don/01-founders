@@ -55,9 +55,19 @@ or paste this:
 curl -o lem-in-v0-5-nik https://nextcloud.nikolo.dev/s/ES9i6Hq7i9NgYAM/download/lem-in-v0-5-nik
 ```
 
+if you want an example to try:
+```
+curl -o example00.txt https://raw.githubusercontent.com/nik-don/01-founders/main/lem-in/example00.txt
+```
+
+
 # How to use:
+
+
 ```
 ./lem-in-v0-5-nik <FILENAME>
+
+./lem-in-v0-5-nik example00.txt
 ```
 
 https://user-images.githubusercontent.com/93073558/160241679-9a322ba7-dea5-4aaf-a0aa-527ca86afbda.mp4
