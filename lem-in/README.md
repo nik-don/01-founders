@@ -43,7 +43,7 @@ Problems:
 Level of Satisfication for this project : 
 ★★★☆☆ (needs improving)
 
-Includes a very basic 2D Visualizer.
+Includes a very basic Visualizer.
 
 
 # You can try it out:
