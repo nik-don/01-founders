@@ -7,7 +7,7 @@ I wanted to do everything from scratch. As I have done in the past since the sel
 Maybe because, as always, I did NOT google the keyword and see what came up.
 Yes. I will be smug about it. 
 
-For full transparency, though, I did wonder what is out there and did a Google search after I felt like I was not going anywhere. But I ONLY did this after having re-written my code for the 3rd time. 
+For full transparency, though, I did wonder what is out there and did a Google search after I felt like I was not going anywhere. But I ONLY did this after having re-written my code for the 3rd time. The only resource I looked at was a [medium article](https://medium.com/@jamierobertdawson/lem-in-finding-all-the-paths-and-deciding-which-are-worth-it-2503dffb893) that gave me a spark to try out a different approach.
 
 I can't stress enough how you need to talk to other people about the project. Explain to them in your words what you think are the requirements.
 It took me a very long time just to understand them. It is a puzzle in itself, where you have to decipher the text, by rearranging it getting some context and going somewhere with it.
