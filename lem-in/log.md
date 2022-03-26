@@ -1,4 +1,4 @@
-Finally managed to tame lem-in. (07/02/2022 - 17/03/2022)
+Finally managed to tame lem-in. (07/02/2022 - 17/03/2022. However I started reading about it in late Dec 21)
 
 
 This has been I believe one of the toughest programming challenges I have faced.
