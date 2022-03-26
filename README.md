@@ -14,6 +14,11 @@ Test Files:
   - [output](https://github.com/nik-don/01-founders/tree/main/ascii-art/output)
 
 
+Other Projects:
+- [Ascii-Art-Web]()
+- [Groupie-Tracker]()
+- [Lem-in](https://github.com/nik-don/01-founders/tree/main/lem-in)
+
 
 ----
 
