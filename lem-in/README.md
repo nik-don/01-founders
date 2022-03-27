@@ -42,6 +42,7 @@ Problems:
 
 Level of Satisfication for this project : 
 ★★★☆☆ (needs improving)
+I would like to re-visit and try to improve it.
 
 Includes a very basic Visualizer.
 
@@ -103,7 +104,11 @@ Printing only the solution for [example04](https://github.com/01-edu/public/tree
 - Mainly maps and structs
 
 ![image](https://user-images.githubusercontent.com/93073558/160244265-e16bf480-988c-4d2f-953a-f3618cddfb60.png)
-
+ 
+Processor (was asked about this)
+- win 10 virtual (amd ryzen - shared cores)
+- ubuntu (intel celeron)
+  
 ![image](https://user-images.githubusercontent.com/93073558/160244300-65844e4f-ea57-4865-b1d1-1f65b2641679.png)
 
 X - No of Ants.
