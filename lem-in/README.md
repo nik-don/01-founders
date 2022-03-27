@@ -63,10 +63,13 @@ curl -o example00.txt https://raw.githubusercontent.com/nik-don/01-founders/main
 
 # How to use:
 
-
+Provide execution permission:
 ```
-./lem-in-v0-5-nik <FILENAME>
+chmod +x lem-in-v0-5-nik
+```
 
+./lem-in-v0-5-nik <FILENAME>:
+```
 ./lem-in-v0-5-nik example00.txt
 ```
 
@@ -95,7 +98,7 @@ Please hit ctrl+c and run again.
 
 Printing only the solution for [example04](https://github.com/01-edu/public/tree/master/subjects/lem-in/examples#example04)
 
-(Please note there has been no pre-optimization)
+(Please note there has been no pre-optimization. It is quite slow.)
 - No Linked lists, graph representation used...
 - Mainly maps and structs
 
