@@ -69,7 +69,7 @@ Provide execution permission:
 chmod +x lem-in-v0-5-nik
 ```
 
-./lem-in-v0-5-nik <FILENAME>:
+Type ./<PROGRAM_NAME> <FILE_NAME>:
 ```
 ./lem-in-v0-5-nik example00.txt
 ```
