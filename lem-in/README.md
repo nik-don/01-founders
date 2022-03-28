@@ -49,7 +49,7 @@ Includes a very basic Visualizer.
 
 # You can try it out:
 
-(ubuntu/linux) https://bit.ly/lem-in
+(ubuntu/linux) https://bit.ly/lem-in-01f
 
 to directly download to the terminal, paste this:
 ```
