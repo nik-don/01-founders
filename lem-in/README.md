@@ -49,11 +49,11 @@ Includes a very basic Visualizer.
 
 # You can try it out:
 
-(ubuntu/linux)  https://nextcloud.nikolo.dev/s/ES9i6Hq7i9NgYAM
+(ubuntu/linux) https://bit.ly/lem-in
 
 to directly download to the terminal, paste this:
 ```
-curl -o lem-in-v0-5-nik https://nextcloud.nikolo.dev/s/ES9i6Hq7i9NgYAM/download/lem-in-v0-5-nik
+curl -o lem-in-v0-5-nik https://bit.ly/lem-in-
 ```
 
 if you want an example to try:
