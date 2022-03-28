@@ -53,7 +53,7 @@ Includes a very basic Visualizer.
 
 to directly download to the terminal, paste this:
 ```
-curl -o lem-in-v0-5-nik https://bit.ly/lem-in-
+wget -O lem-in-v0-5-nik https://bit.ly/lem-in-
 ```
 
 if you want an example to try:
