@@ -30,6 +30,4 @@ Other Projects:
 [![image](https://user-images.githubusercontent.com/93073558/160245146-9acf970a-2c93-4738-90b7-0b28d6239109.png)](https://www.buymeacoffee.com/nikdon)
 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J36ZB3M)
-
 ![image](https://user-images.githubusercontent.com/93073558/160245573-ba5bc1c1-0f33-4c86-8856-0f88c62f0c98.png)
