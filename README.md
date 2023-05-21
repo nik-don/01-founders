@@ -19,6 +19,8 @@ Other Projects:
 - [Groupie-Tracker](https://01f-div01-groupie-tracker-production.up.railway.app/) - [(Mirror)](https://groupie-trkr.onrender.com/)
 - [Lem-in](https://github.com/nik-don/01-founders/tree/main/lem-in)
 - [Make-your-game](https://www.nikdon.com/posts/make-your-game-01founders) - [(Play)](https://brickinvaders.nikdon.com/)
+- [Real-Time-Forum]() - write up in progress
+- [GraphQl](https://nik-don.github.io/01f-div01-graphql/)
 
 ----
 ![image](https://user-images.githubusercontent.com/93073558/160245440-b307cc85-deaf-4d1e-bed4-c43bc73d2a6b.png)
